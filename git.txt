@@ -1,2 +1,7 @@
 this is github practice
 i changed this
+This is written in branch A
+This is written in branch branch
+Let's see what stash does
+My name is Susmita Thapa
+let's push to the remote repo now
