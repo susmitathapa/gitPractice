@@ -1,2 +1,3 @@
 this is github practice
 i changed this
+This is written in branch B
